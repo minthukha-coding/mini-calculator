@@ -1,0 +1,14 @@
+.appStyle{
+    background-color: black;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background: linear-gradient(to right,rgb(29, 29, 236),rgb(36, 202, 36));
+}
+.grid-claculator{
+    display: grid;
+    margin-top: 2rem;
+}
