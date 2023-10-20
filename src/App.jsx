@@ -5,8 +5,8 @@ function App() {
   return (
     <div className='grid-claculator'>
       <div className='output'>
-        <div className='previous-operand'></div>
-        <div className='current-operand'></div>
+        <div className='previous-operand'>2432424*</div>
+        <div className='current-operand'>324234234</div>
       </div>
       <button className='span-two'>AC</button>
       <button>DEL</button>
@@ -19,7 +19,6 @@ function App() {
       <button>5</button>
       <button>6</button>
       <button>+</button>
-      <button>*</button>
       <button>7</button>
       <button>8</button>
       <button>9</button>
